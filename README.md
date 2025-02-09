@@ -6,26 +6,25 @@
 
 
 ### Team Members
-- Member 1: [Aisha.A] - [Carmel Polytechnic College]
-- Member 2: [Amala A J] - [Carmel Polytechnic College]
-- Member 3: [Name] - [College]
+- Member 1: Aisha.A - Carmel Polytechnic College
+- Member 2: Amala A J - Carmel Polytechnic College
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://aishaamala.github.io/Fitness-and-nutrition/
 
 ### Project Description
-[Idea about Fitness and nutrition trackers]
+Idea about Fitness and nutrition trackers
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+Many peoples struggle with maintaining a balanced diet and fitness routine due to lack of personalization,time constraints and conflicting
+health advice.Generic plans fail to meet individual needs,leading to poor adherence and results.A solution is needed to provide personalized,AI-driven fitness and nutritionguidence for sustainable health improvements
 ### The Solution
-[People who go to gym can do their workout sitting at home through this website]
+People who go to gym can do their workout sitting at home through this website
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [English]
+- English
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
