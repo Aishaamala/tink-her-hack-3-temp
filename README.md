@@ -20,12 +20,12 @@
 [What ridiculous problem are you solving?]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[People who go to gym can do their workout sitting at home through this website]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [English]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
