@@ -1,20 +1,20 @@
-# [Project Name] 🎯
+# [Fitness and Nutrition] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Hackers]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Aisha.A] - [Carmel Polytechnic College]
+- Member 2: [Amala A J] - [Carmel Polytechnic College]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Idea about Fitness and nutrition trackers]
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
